@@ -1,0 +1,99 @@
+{
+    "tribal":[
+        {
+            "id": 1,
+            "title": "Dragão",
+            "pretaEbranca": "Sim",
+            "colorida": "Não",
+            "preço": "R$50,00"
+        },
+        
+        {
+            "id": 2,
+            "title": "Lobo",
+            "pretaEbranca": "Sim",
+            "colorida": "Não",
+            "preço": "R$60,00"
+        },
+        
+        {
+            "id": 3,
+            "title": "Tigre Flamejante",
+            "pretaEbranca": "Sim",
+            "colorida": "Não",
+            "preço": "R$80,00"
+        },
+        {
+            "id": 4,
+            "title": "Pena",
+            "pretaEbranca": "Sim",
+            "colorida": "Não",
+            "preço": "R$50,00"
+        }
+        
+    ],
+    "lettering":[
+        {
+            "id": 1,
+            "title": "Mother",
+            "pretaEbranca": "Sim",
+            "colorida": "Não",
+            "preço": "R$40,00"
+        },
+        
+        {
+            "id": 2,
+            "title": "Love com Coração",
+            "pretaEbranca": "Sim",
+            "colorida": "Sim",
+            "preço": "R$75,00"
+        },
+        
+        {
+            "id": 3,
+            "title": "Seu nome, alfabeto",
+            "pretaEbranca": "Sim",
+            "colorida": "Não",
+            "preço": "R$15,00"
+        },
+        {
+            "id": 4,
+            "title": "Old Soul",
+            "pretaEbranca": "Sim",
+            "colorida": "Não",
+            "preço": "R$45,00"
+        }
+    ],
+    "geometrico":[
+        {
+            "id": 1,
+            "title": "Libélula",
+            "pretaEbranca": "Sim",
+            "colorida": "Não",
+            "preço": "R$40,00"
+        },
+        
+        {
+            "id": 2,
+            "title": "Círculo com Triangulo",
+            "pretaEbranca": "Sim",
+            "colorida": "Não",
+            "preço": "R$45,00"
+        },
+        
+        {
+            "id": 3,
+            "title": "Borboleta",
+            "pretaEbranca": "Sim",
+            "colorida": "Não",
+            "preço": "R$65,00"
+        },
+        {
+            "id": 4,
+            "title": "Mandala",
+            "pretaEbranca": "Sim",
+            "colorida": "Não",
+            "preço": "R$75,00"
+        }
+    ]
+}
