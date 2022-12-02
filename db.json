@@ -6,7 +6,7 @@
             "pretaEbranca": "Sim",
             "colorida": "Não",
             "preço": "R$50,00",
-            "imagem": "../../assets/feijoada.png"
+            "imagem": "./assets/feijoada.png"
         },
         
         {
