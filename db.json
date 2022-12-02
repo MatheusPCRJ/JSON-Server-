@@ -5,7 +5,8 @@
             "title": "Dragão",
             "pretaEbranca": "Sim",
             "colorida": "Não",
-            "preço": "R$50,00"
+            "preço": "R$50,00",
+            "imagem": "./assets/feijoada.png"
         },
         
         {
