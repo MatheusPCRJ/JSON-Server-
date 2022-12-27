@@ -18,10 +18,13 @@
 
 
 <h2 id="sobre">Sobre 🔎</h2>
-  <h3></h3>
+  Um projeto individual onde precisei criar um Json-Server para talvez utilizar no projeto em grupo do curso. <br>
+  Tive que criar 3 rotas ou + e no mínimo 4 objetos dentro de um array em cada rota. <br>
+  Esse Json-Server foi baseado em uma loja online de Tatuagens, onde contém o valor da tatuagem, nome, se é colorida ou não etc. <br>
+  Obs importante: Estou utilizando esse Json-Server em um outro projeto que está no meu Github que se chama "consumind-API", como não utilizei no projeto em grupo, utilizei em um projeto individual para aplica-lo.
 
 
-<h4> Contexo da situação: </h4>
+<h3> Contexo da situação: </h3>
 O termo “Json-server” é utilizado para descrever um servidor (pode também ser correlacionado a um garçom) <br>
 que serve dados no formato Json. <br>
 Neste projeto, você irá desenvolver um servidor json (Json-server) com 3 ou mais rotas, <br>
@@ -29,7 +32,7 @@ a entidade que será utilizada nas rotas precisa ter 4 ou mais atributos.
 
 
 
-<h4> O que é para ser feito? </h4>
+<h3> O que é para ser feito? </h3>
 ⇨ Desenvolver um servidor json (Json-server) onde
 irá conter 3 rotas com 4+ dados nas quais o
 usuário poderá realizar o <br> GET, POST, PUT,
